@@ -14,4 +14,4 @@
   </tr>
 </table>
 
-[![Gitanimals](https://render.gitanimals.org/farms/rys090109?13)](https://github.com/git-goods/gitanimals)
+[![Gitanimals](https://render.gitanimals.org/farms/rys090109?12)](https://github.com/git-goods/gitanimals)
