@@ -1,6 +1,5 @@
 # 안녕하세요
-
-### 🛠 Tech Stacks
+###  Tech Stacks
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/></td>
